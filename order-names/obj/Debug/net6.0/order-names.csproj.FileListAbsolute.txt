@@ -1,0 +1,15 @@
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net6.0\order-names.csproj.AssemblyReference.cache
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net6.0\order-names.GeneratedMSBuildEditorConfig.editorconfig
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net6.0\order-names.AssemblyInfoInputs.cache
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net6.0\order-names.AssemblyInfo.cs
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net6.0\order-names.csproj.CoreCompileInputs.cache
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\bin\Debug\net6.0\order-names.exe
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\bin\Debug\net6.0\order-names.deps.json
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\bin\Debug\net6.0\order-names.runtimeconfig.json
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\bin\Debug\net6.0\order-names.dll
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\bin\Debug\net6.0\order-names.pdb
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net6.0\order-names.dll
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net6.0\refint\order-names.dll
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net6.0\order-names.pdb
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net6.0\order-names.genruntimeconfig.cache
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net6.0\ref\order-names.dll

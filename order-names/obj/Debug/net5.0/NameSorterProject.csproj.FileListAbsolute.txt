@@ -1,0 +1,16 @@
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net5.0\NameSorterProject.csproj.AssemblyReference.cache
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net5.0\NameSorterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net5.0\NameSorterProject.AssemblyInfoInputs.cache
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net5.0\NameSorterProject.AssemblyInfo.cs
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net5.0\NameSorterProject.csproj.CoreCompileInputs.cache
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\bin\Debug\net5.0\NameSorterProject.exe
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\bin\Debug\net5.0\NameSorterProject.deps.json
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\bin\Debug\net5.0\NameSorterProject.runtimeconfig.json
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\bin\Debug\net5.0\NameSorterProject.runtimeconfig.dev.json
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\bin\Debug\net5.0\NameSorterProject.dll
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\bin\Debug\net5.0\NameSorterProject.pdb
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net5.0\NameSorterProject.dll
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net5.0\refint\NameSorterProject.dll
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net5.0\NameSorterProject.pdb
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net5.0\NameSorterProject.genruntimeconfig.cache
+C:\opt\dev\workspace\work\sort-nemes-csharp\order-names\order-names\obj\Debug\net5.0\ref\NameSorterProject.dll
